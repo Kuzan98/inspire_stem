@@ -1,0 +1,32 @@
+# This is a program to show how yo perform arithmethic operations
+# Date :15/02/2024
+# Name :"David"
+
+
+first number=40
+second number=2
+
+sum_numbers= first_number+ second_number
+diff_numbers = first_number - second_number
+product_numbers = first_number * second_number
+quotient_numbers = first_number / second_number
+
+
+print("The sum of the numbers",sum_numbers)
+print("the diff of the numbers",diff_numbers)
+print("The product of the numbers",product_numbers)
+print("The quotient of the numbers",quotient_numbers)
+
+get sum of 10 numbers
+one=10
+two=20
+three=30
+four=40
+five=50
+six=60
+seven=70
+eight=80
+nine=90
+ten=100
+
+sum = one + two + three + four + five + six + seven + eight + nine + ten
